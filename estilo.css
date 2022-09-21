@@ -1,0 +1,27 @@
+h1 {
+	color: white;
+	background-color: black;
+	font-family: calibri;
+	text-align: center;
+}
+
+h2 {
+	color: blue;
+	
+}
+
+.teste1 {
+	color: red;
+}
+
+Body {
+	background-color: gray;
+}
+/* Esse red será utilizado em locais específicos*/
+.red {
+	color: Red;
+}
+
+.blue {
+	color: blue
+}
